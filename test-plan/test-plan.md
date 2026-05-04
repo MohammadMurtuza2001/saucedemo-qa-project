@@ -87,8 +87,8 @@ If a critical defect blocks further testing, the affected area will be flagged a
 
 ## 9. Deliverables
 - Test Plan (this document)  
-- Test Cases (25 test cases in a structured table)  
-- Bug Reports (minimum 3)  
+- Test Cases (30 test cases in a structured table)  
+- Bug Reports (minimum 5)  
 - Test Summary Report  
 
 ---
