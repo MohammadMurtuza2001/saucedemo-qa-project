@@ -1,9 +1,9 @@
 # Test Summary Report — SauceDemo Manual Testing
 
-**Project:** SauceDemo E-Commerce Manual Testing
-**Tester:** Mohammad Murtuza Moin
-**Test Period:** 3-May-2026 to 4-May-2026
-**Environment:** Microsoft Edge 147.0.3912.86 on Windows 10 Pro
+**Project:** SauceDemo E-Commerce Manual Testing  
+**Tester:** Mohammad Murtuza Moin  
+**Test Period:** 3-May-2026 to 4-May-2026  
+**Environment:** Microsoft Edge 147.0.3912.86 on Windows 10 Pro  
 **URL:** https://www.saucedemo.com
 
 ---
