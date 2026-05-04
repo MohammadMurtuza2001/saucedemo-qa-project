@@ -54,12 +54,12 @@ SauceDemo is a demo e-commerce web application created by Sauce Labs for the pur
 - **Browser:** Microsoft Edge Version 147.0.3912.86 (64-bit)  
 - **OS:** Windows 10 Pro (22H2)  
 - **URL:** https://www.saucedemo.com  
-- **Test Data:** The login credentials (`standard_user`) will be used.  
+- **Test Data:** The login credentials (`standard_user` and `problem_user`) will be used.  
 
 ---
 
 ## 6. Entry Criteria
-Stable internet connection and the site https://www.saucedemo.com should be up and running. We should be able to log in with the credentials `standard_user`.
+Stable internet connection and the site https://www.saucedemo.com should be up and running. We should be able to log in with the credentials `standard_user` and `problem_user`.
 
 ---
 
