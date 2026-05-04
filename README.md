@@ -11,7 +11,7 @@ a demo e-commerce application.
 - [x] Phase 2 — Test Plan ✅
 - [x] Phase 3 — Test Cases ✅ (https://docs.google.com/spreadsheets/d/1nSEImQ-M-B-03WE1A-eFEcV1ocAFtBWc-P5DZ3tne7M/edit?usp=sharing)
 - [x] Phase 4 — Test Execution ✅ 📋 [View Test Cases in the above link]
-- [ ] Phase 5 — Bug Reports
+- [x] Phase 5 — Bug Reports ✅
 - [ ] Phase 6 — Test Summary Report
 
 ## Author
