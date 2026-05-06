@@ -19,5 +19,20 @@ a demo e-commerce application.
 * **Bug Reports:** 5 documented defects (3 High, 1 Critical, 1 Low) found using the `problem_user` account.  
 * **Summary Report:** Final assessment of the application's readiness for release.  
 
+## Tools Used
+- **Browser:** Microsoft Edge 147
+- **OS:** Windows 10 Pro
+- **Test Case Management:** Google Sheets
+- **Documentation:** Microsoft Word, Markdown
+- **Screenshot Capture:** Greenshot
+- **Version Control:** Git & GitHub
+
+## Key Findings
+- 25/30 test cases passed — 83.3% pass rate
+- standard_user: all 25 test cases passed with zero defects
+- problem_user: 5 critical/high severity bugs found including
+  a checkout-blocking field overwriting bug (BUG-004, BUG-005)
+- Application rated: CONDITIONAL PASS
+
 ## Author
 **Mohammad Murtuza Moin** | Aspiring QA Engineer
