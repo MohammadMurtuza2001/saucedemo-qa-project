@@ -114,4 +114,4 @@ Once complete, open `automation-report.html` in your browser to view the full HT
 
 ## Author
 
-**Mohammad Murtuza Moin** | Aspiring QA Engineer
+**Mohammad Murtuza Moin**
